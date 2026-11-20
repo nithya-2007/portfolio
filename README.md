@@ -1,1 +1,1 @@
-portfolio-gamma-ruddy-71.vercel.app
+https://portfolio-gamma-ruddy-71.vercel.app/
